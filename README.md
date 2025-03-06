@@ -31,7 +31,9 @@ Integrate deep learning (LSTMs) for better predictions.
 ---
 
 Developed using **Streamlit**, **Pandas**, and other financial analysis tools.
-#Screenshots:
+
+## Screenshots
+
 ![image](https://github.com/user-attachments/assets/8d6aa13d-1fe3-4e71-9c5b-25053d3b74b8)
 ![image](https://github.com/user-attachments/assets/4c2e44a2-392e-4633-b92d-20374e0892e8)
 ![image](https://github.com/user-attachments/assets/c6c2c283-36f1-4fd8-9fce-4faab52f9355)
