@@ -1,36 +1,40 @@
-# Stock Price Prediction
+# Portfolio Management
 
 ## Project Overview
-A Streamlit-based app that predicts stock prices using historical NSE data and machine learning.
+A financial portfolio analysis tool that helps users track their investments, analyze returns, and visualize asset distribution.
 
 ## Features
-- Fetch real-time stock data
-- Apply ML models for predictions
-- Visualize stock trends
+- Upload portfolio data (CSV format)
+- Track investment performance over time
+- Generate insightful visualizations of asset allocation
 
 ## Libraries Used
 - Streamlit
 - Pandas
 - NumPy
-- Scikit-learn
 - Matplotlib
-- yfinance
 
 ## Dataset Information
-Historical stock data including Open, High, Low, Close prices, and Volume.
+The dataset contains information about investment transactions, including:
+- Date of investment
+- Asset type (Stocks, Bonds, Mutual Funds, etc.)
+- Investment amount
+- Current market value
 
 ## Installation & Usage
 ```bash
-pip install streamlit pandas numpy scikit-learn yfinance matplotlib
-streamlit run stock_price.py
+pip install streamlit pandas numpy matplotlib
+streamlit run portfolio_management.py
 ```
 
 ## Future Enhancements
-Integrate deep learning (LSTMs) for better predictions.
+- AI-driven investment recommendations based on historical trends.
+- Integration with live stock market data for real-time tracking.
 
 ---
 
 Developed using **Streamlit**, **Pandas**, and other financial analysis tools.
+
 
 ## Screenshots
 
